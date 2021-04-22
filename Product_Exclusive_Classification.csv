@@ -1,4 +1,4 @@
-id,brand,category,rating,number_of_reviews,love,price,value_price,exclusive
+giid,brand,category,rating,number_of_reviews,love,price,value_price,exclusive
 50,SEPHORA COLLECTION,no category,5,46,0,50,50,0
 304,SEPHORA COLLECTION,no category,0,0,0,50,50,0
 404,SEPHORA COLLECTION,no category,0,0,0,50,50,0
